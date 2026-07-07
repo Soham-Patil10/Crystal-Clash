@@ -67,5 +67,5 @@ To install and play Crystal Clash:
 ## Contributors
 
 - **[Soham Patil](https://github.com/Soham-Patil10)**
-- **[Dhairya Muni](https://github.com/Dhairya-Muni)**
+- **[Dhairya Muni](https://github.com/DhairyaMuni)**
 
