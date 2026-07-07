@@ -62,8 +62,6 @@ To install and play Crystal Clash:
 - **Defend the Castle**: Strategically defend your main tower against waves of increasingly difficult enemies.
 - **Upgrade**: Earn points after each level to upgrade towers or repair the main tower.
 
-## Contributors 
-
 ## Contributors
 
 - **[Soham Patil](https://github.com/Soham-Patil10)**
